@@ -24,9 +24,9 @@ A Simple Landing Page Using Frontend Devlopment.
 
 ![App Screenshot](https://github.com/karanSuman/Landing_Page-Frontend/blob/main/Screenshots/2.jpg)
 
-![App Screenshot](https://github.com/karanSuman/Landing_Page-Frontend/blob/main/Screenshots/2.jpg)
-
 ![App Screenshot](https://github.com/karanSuman/Landing_Page-Frontend/blob/main/Screenshots/3.jpg)
+
+![App Screenshot](https://github.com/karanSuman/Landing_Page-Frontend/blob/main/Screenshots/4.jpg)
 
 
 
